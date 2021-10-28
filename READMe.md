@@ -42,7 +42,7 @@ git add . && git commit -m "update README.md"
 ```
 
 ```bash
-git remote add origin https://github.com/PrajjwalSule21
+git remote add origin https://github.com/PrajjwalSule21/simple-dvc-demo.git
 ```
 
 ```bash
